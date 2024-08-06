@@ -1,0 +1,1 @@
+const hobbies = ["Sports", "Cooking"];
